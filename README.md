@@ -19,7 +19,7 @@ It automates the aggregation of income and expenses and calculates remaining mon
 ## Build & Run
 ```bash
 cargo build --release
-./target/release/autotrack
+./target/release/finatrack
 ```
 
 ## Website
