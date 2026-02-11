@@ -1,8 +1,8 @@
-# AutoTrack
+# FinaTrack
 A Digital Automation Tool for Personal Expense Management
 
 ## Overview
-AutoTrack is a personal automation project developed for a university Digital Business exam.
+FinaTrack is a personal automation project developed for a university Digital Business exam.
 It automates the aggregation of income and expenses and calculates remaining monthly budgets.
 
 ## Business Value
